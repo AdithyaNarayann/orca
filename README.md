@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="#license-and-acknowledgments"><img src="https://img.shields.io/badge/license-Apache_2.0-007ec6?style=flat" alt="License Apache 2.0" /></a>
+  <a href="#license-and-acknowledgments"><img src="https://img.shields.io/badge/license-MIT-007ec6?style=flat" alt="License MIT" /></a>
   <img src="https://img.shields.io/badge/agents-8_backends-24292e?style=flat" alt="Agents 8 Backends" />
   <img src="https://img.shields.io/badge/coverage-8%2C100_km_EEZ-00d2d3?style=flat" alt="Coverage 8,100 km EEZ" />
   <img src="https://img.shields.io/badge/routing-Zero--Land_A*-8a3ffc?style=flat" alt="Routing Zero-Land A*" />
@@ -11,7 +11,7 @@
   <a href="#quick-start-and-installation"><img src="https://img.shields.io/badge/quickstart-3_commands-28a745?style=flat" alt="Quickstart 3 Commands" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/abhay-7-7-7/orca" target="_blank"><img src="https://img.shields.io/badge/github-by_abhay--7--7--7%2Forca-f77f00?style=flat&logo=github&logoColor=white" alt="GitHub Repository" /></a>
+  <a href="https://github.com/AdithyaNarayann/orca" target="_blank"><img src="https://img.shields.io/badge/github-by_AdithyaNarayann%2Forca-f77f00?style=flat&logo=github&logoColor=white" alt="GitHub Repository" /></a>
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-3.11+-3776AB?style=flat&logo=python&logoColor=white" alt="Python 3.11+" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-0.110+-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=black" alt="React 18" /></a>
